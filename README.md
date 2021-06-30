@@ -1,1 +1,1 @@
-# BaseAdapterExample
+Project illustrates the use of BaseAdapter. Populates data to a gridview.
